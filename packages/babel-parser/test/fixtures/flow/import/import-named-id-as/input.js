@@ -1,0 +1,1 @@
+import { named_prop as as } from 'foo';
